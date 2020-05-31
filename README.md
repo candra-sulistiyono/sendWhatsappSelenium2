@@ -13,6 +13,11 @@ Please add the library using pip
 pip install selenium
 ```
 
+## Create folde profile
+```
+mkdir profile
+```
+
 ## Driver Chrome
 You can download it,  choose according to your OS
 
