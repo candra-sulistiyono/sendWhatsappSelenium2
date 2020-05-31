@@ -25,10 +25,10 @@ def sendMessage(name,message):
     sleep(1)
     send_button.click()
 
-sendMessage("Javas","Hai, ini pesan dari Python ")
+sendMessage("Javas","Hi, this messahe from Python ")
 sleep(1)
-sendMessage("Javas","Menggunakan Selenium dan ChromeDriver")
+sendMessage("Javas","Using Selenium and ChromeDriver")
 sleep(1)
-sendMessage("Javas","Terima kasih...")
+sendMessage("Javas","Thanks ...")
 sleep(3)
 driver.close();
